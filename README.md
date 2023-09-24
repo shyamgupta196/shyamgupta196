@@ -1,8 +1,4 @@
-### Hi there 👋, welcome to Curiosity-101. hope you love
-<img src="https://komarev.com/ghpvc/?username=shyamgupta196" alt="profile counter badge" />
-
-### Connect with me
-[![Linkedin Badge](https://img.shields.io/badge/-shyamgupta196-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shyam-gupta-5356511aa/)](https://www.linkedin.com/in/shyam-gupta-5356511aa/)
+### Hi there 👋, welcome to My profile.
 
 I am ***Shyam Gupta***, I am a Learner, tutor, and Tech Enthusiast. to code in Python & R and currently providing services as a Freelancer !
 
@@ -19,7 +15,10 @@ I am Curious about:
 - and much more....
 
 ***Want to hire me for your next project. Lets connect.***
-You can email me as well here ***karanshyammittal@gmail.com***.
+You can email me as well here ***shyamgupta196@gmail.com***.
+<img src="https://komarev.com/ghpvc/?username=shyamgupta196" alt="profile counter badge" />
+### Connect with me
+[![Linkedin Badge](https://img.shields.io/badge/-shyamgupta196-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shyam-gupta-5356511aa/)](https://www.linkedin.com/in/shyam-gupta-5356511aa/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=shyamgupta196&?count_private=true&show_icons=true" alt="Shyam Gupta" align="center" />
 
@@ -34,6 +33,8 @@ You can email me as well here ***karanshyammittal@gmail.com***.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamgupta196&layout=compact" alt='Shyam Gupta' align="center" />
   
 Feel free to look around my repos and connect with me on [linkedin](https://www.linkedin.com/in/shyam-gupta-5356511aa/)😉
+
+
 <!--
 **shyamgupta196/shyamgupta196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
