@@ -23,7 +23,7 @@ You can email me as well here ***shyamgupta196@gmail.com***.
 <img src="https://github-readme-stats.vercel.app/api?username=shyamgupta196&?count_private=true&show_icons=true" alt="Shyam Gupta" align="center" />
 
 ***Let me tell you somethings about myself.***
- - :computer 🔭: I Studied ***Theoritical And Applied Statistics*** and I work on ***Computer Vision, Data Science Consultant***. I have consulted many startups and individuals for their projects. I have also taught many students about data science, Python and Machine Learning.
+ - 🧑🏽‍💻🔭: I Studied ***Theoritical And Applied Statistics*** and I work on ***Computer Vision, Data Science Consultant***. I have consulted many startups and individuals for their projects. I have also taught many students about data science, Python and Machine Learning.
  - :mortar_board: I Graduated in 2022 and Presently Pursuing Master's In Technical University, Dortmund, Germany.
  - :zap: My curiosity made me a ***self-learner*** who loves learning things from the internet, any reliable and quality source of information.
  - :v:  I am ***super positive*** and I always look forward to create and develop new solutions using cutting edge technologies.
