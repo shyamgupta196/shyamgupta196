@@ -1,5 +1,5 @@
 ### Hi there 👋, welcome to Curiosity-101. hope you love
-<img src="https://komarev.com/ghpvc/?username=Karan-S-Mittal" alt="profile counter badge" />
+<img src="https://komarev.com/ghpvc/?username=shyamgupta196" alt="profile counter badge" />
 
 ### Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-shyamgupta196-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shyam-gupta-5356511aa/)](https://www.linkedin.com/in/shyam-gupta-5356511aa/)
