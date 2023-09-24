@@ -24,7 +24,7 @@ You can email me as well here ***karanshyammittal@gmail.com***.
 <img src="https://github-readme-stats.vercel.app/api?username=shyamgupta196&?count_private=true&show_icons=true" alt="Shyam Gupta" align="center" />
 
 ***Let me tell you somethings about myself.***
- - :computer: I Studied ***Theoritical And Applied Statistics*** and I work on ***Computer Vision, Data Science Consultant***
+ - :computer 🔭: I Studied ***Theoritical And Applied Statistics*** and I work on ***Computer Vision, Data Science Consultant***. I have consulted many startups and individuals for their projects. I have also taught many students about data science, Python and Machine Learning.
  - :mortar_board: I Graduated in 2022 and Presently Pursuing Master's In Technical University, Dortmund, Germany.
  - :zap: My curiosity made me a ***self-learner*** who loves learning things from the internet, any reliable and quality source of information.
  - :v:  I am ***super positive*** and I always look forward to create and develop new solutions using cutting edge technologies.
@@ -33,13 +33,13 @@ You can email me as well here ***karanshyammittal@gmail.com***.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamgupta196&layout=compact" alt='Shyam Gupta' align="center" />
   
-Feel free to look around my repos and connect with me on (linkedin)[https://www.linkedin.com/in/shyam-gupta-5356511aa/]😉
+Feel free to look around my repos and connect with me on [linkedin](https://www.linkedin.com/in/shyam-gupta-5356511aa/)😉
 <!--
 **shyamgupta196/shyamgupta196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
