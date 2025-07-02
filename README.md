@@ -14,10 +14,12 @@ I am Curious about:
 - SQL
 - and much more....
 
-***Want to hire me for your next project. Lets connect.***
-You can email me as well here ***shyamgupta196@gmail.com***.
+Wanna Colab??- Mail me at - ***shyam.gupta@tu-dortmund.de***.
+
 <img src="https://komarev.com/ghpvc/?username=shyamgupta196" alt="profile counter badge" />
+
 ### Connect with me
+
 [![Linkedin Badge](https://img.shields.io/badge/-shyamgupta196-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shyam-gupta-5356511aa/)](https://www.linkedin.com/in/shyam-gupta-5356511aa/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=shyamgupta196&?count_private=true&show_icons=true" alt="Shyam Gupta" align="center" />
