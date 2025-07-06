@@ -1,3 +1,11 @@
+### Connect with me
+
+[![Linkedin Badge](https://img.shields.io/badge/-shyamgupta196-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shyam-gupta-5356511aa/)](https://www.linkedin.com/in/shyam-gupta-5356511aa/)<img src="https://komarev.com/ghpvc/?username=shyamgupta196" alt="profile counter badge" />
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=shyamgupta196&?count_private=true&show_icons=true" alt="Shyam Gupta" align="center" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamgupta196" alt='Shyam Gupta' align="center" />
+
+
 ### Hi there 👋, welcome to My profile.
 
 I am ***Shyam Gupta***, I am a Learner, tutor, and Tech Enthusiast. to code in Python & R and currently providing services as a Freelancer !
@@ -16,13 +24,6 @@ I am Curious about:
 
 Wanna Colab??- Mail me at - ***shyam.gupta@tu-dortmund.de***.
 
-<img src="https://komarev.com/ghpvc/?username=shyamgupta196" alt="profile counter badge" />
-
-### Connect with me
-
-[![Linkedin Badge](https://img.shields.io/badge/-shyamgupta196-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shyam-gupta-5356511aa/)](https://www.linkedin.com/in/shyam-gupta-5356511aa/)
-
-<img src="https://github-readme-stats.vercel.app/api?username=shyamgupta196&?count_private=true&show_icons=true" alt="Shyam Gupta" align="center" />
 
 ***Let me tell you somethings about myself.***
  - 🧑🏽‍💻🔭: I Studied ***Theoritical And Applied Statistics*** and I work on ***Computer Vision, Data Science Consultant***. I have consulted many startups and individuals for their projects. I have also taught many students about data science, Python and Machine Learning.
@@ -32,7 +33,6 @@ Wanna Colab??- Mail me at - ***shyam.gupta@tu-dortmund.de***.
  - :sunglasses: I am a self-trained in ***Computer Vision*** and my journey began during lockdown 2020 where I was bored of watching netflix and got curious about data science!
  - :video_game: I love ***practicing boxing,  watchning Anime, playing E-sports and reading finance books***
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamgupta196&layout=compact" alt='Shyam Gupta' align="center" />
   
 Feel free to look around my repos and connect with me on [linkedin](https://www.linkedin.com/in/shyam-gupta-5356511aa/)😉
 
