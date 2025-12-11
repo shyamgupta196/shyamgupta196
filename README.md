@@ -5,8 +5,6 @@
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shyamgupta196&show_icons=true&count_private=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamgupta196" alt='Shyam Gupta' align="center" />
-
 
 ### Hi there 👋, welcome to My profile.
 
