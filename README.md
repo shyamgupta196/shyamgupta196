@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-shyamgupta196-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shyam-d-gupta/)](https://www.linkedin.com/in/shyam-d-gupta/)<img src="https://komarev.com/ghpvc/?username=shyamgupta196" alt="profile counter badge" />
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=shyamgupta196&count_private=true&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=shyamgupta196&count_private=true&show_icons=true&cache_seconds=3600" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamgupta196" alt='Shyam Gupta' align="center" />
 
