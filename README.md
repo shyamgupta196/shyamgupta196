@@ -1,53 +1,72 @@
-### Connect with me
+<div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-shyamgupta196-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shyam-d-gupta/)](https://www.linkedin.com/in/shyam-d-gupta/)<img src="https://komarev.com/ghpvc/?username=shyamgupta196" alt="profile counter badge" />
+# Hi there, I'm Shyam Gupta 👋
 
+### Data Science Consultant · Computer Vision Enthusiast · Lifelong Learner
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shyamgupta196&show_icons=true&count_private=true" />
+<p>
+  <a href="https://www.linkedin.com/in/shyam-d-gupta/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Shyam on LinkedIn" />
+  </a>
+  <a href="mailto:shyam.gupta@tu-dortmund.de">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shyam" />
+  </a>
+</p>
 
+</div>
 
-### Hi there 👋, welcome to My profile.
+## About me
 
-I am ***Shyam Gupta***, I am a Learner, tutor, and Tech Enthusiast. to code in Python & R and currently providing services as a Freelancer !
+I am a **Data Science Consultant**, tutor, and technology enthusiast with a background in **Theoretical and Applied Statistics**. I work primarily with **Python** and **R**, and I enjoy building practical solutions that turn data into useful insights.
 
-I love deep learning , computer vision and MLOPS. I learn new things and explore my interests everyday. 
+My interests include deep learning, computer vision, machine learning operations, cloud technologies, and data analytics. I am continuously learning, experimenting, and exploring new ways to solve real-world problems.
 
-I am Curious about: 
-- Machine Learning and Deep Learning 
-- Computer Vision 
-- Google Cloud  
-- Azure
-- Web Scraping
-- Data Analytics
-- SQL
-- and much more....
+## Areas of interest
 
-Wanna Colab??- Mail me at - ***shyam.gupta@tu-dortmund.de***.
+- Machine Learning and Deep Learning
+- Computer Vision
+- MLOps
+- Data Analytics and SQL
+- Google Cloud and Microsoft Azure
+- Web Scraping and Data Collection
+- Statistical Modeling
 
+## Technical skills
 
-***Let me tell you somethings about myself.***
- - 🧑🏽‍💻🔭: I Studied ***Theoritical And Applied Statistics*** and I work on ***Computer Vision, Data Science Consultant***. I have consulted many startups and individuals for their projects. I have also taught many students about data science, Python and Machine Learning.
- - :mortar_board: I Graduated in 2022 and Presently Pursuing Master's In Technical University, Dortmund, Germany.
- - :zap: My curiosity made me a ***self-learner*** who loves learning things from the internet, any reliable and quality source of information.
- - :v:  I am ***super positive*** and I always look forward to create and develop new solutions using cutting edge technologies.
- - :sunglasses: I am a self-trained in ***Computer Vision*** and my journey began during lockdown 2020 where I was bored of watching netflix and got curious about data science!
- - :video_game: I love ***practicing boxing,  watchning Anime, playing E-sports and reading finance books***
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+</p>
 
-  
-Feel free to look around my repos and connect with me on [linkedin](https://www.linkedin.com/in/shyam-gupta-5356511aa/)😉
+## Background
 
+- 🎓 Studied **Theoretical and Applied Statistics**.
+- 🎓 Graduated in 2022 and pursued a master's degree at **TU Dortmund University, Germany**.
+- 💻 Started my computer vision and data science journey during the 2020 lockdown.
+- 🚀 Consulted startups and individuals on data science and computer vision projects.
+- 📚 A self-learner who enjoys discovering knowledge from reliable sources.
 
-<!--
-**shyamgupta196/shyamgupta196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub statistics
 
-Here are some ideas to get you started:
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shyamgupta196&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Shyam's GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamgupta196&layout=compact&hide_border=true&theme=transparent" alt="Shyam's most used languages" />
+</div>
 
--  I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Beyond technology
+
+When I am away from my computer, I enjoy **boxing**, watching anime, playing esports, and reading finance books.
+
+## Let's connect
+
+Interested in collaborating, discussing data science, or exploring an idea together? Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/shyam-d-gupta/) or [email](mailto:shyam.gupta@tu-dortmund.de).
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+</div>
