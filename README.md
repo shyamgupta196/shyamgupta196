@@ -11,13 +11,14 @@
   <a href="mailto:shyam.gupta@tu-dortmund.de">
     <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shyam" />
   </a>
+  <img src="https://img.shields.io/badge/Grade-A%2B-success?style=for-the-badge" alt="A+ Grade" />
 </p>
 
 </div>
 
 ## About me
 
-I am a **Data Science Consultant**, tutor, and technology enthusiast with a background in **Theoretical and Applied Statistics**. I work primarily with **Python** and **R**, and I enjoy building practical solutions that turn data into useful insights.
+I am a **Data Science Consultant**, tutor, and technology enthusiast with a background in **Theoretical and Applied Statistics**. I work primarily with **Python** and **R**, and I enjoy building practical, data-driven solutions.
 
 My interests include deep learning, computer vision, machine learning operations, cloud technologies, and data analytics. I am continuously learning, experimenting, and exploring new ways to solve real-world problems.
 
