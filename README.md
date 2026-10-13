@@ -60,7 +60,7 @@ My interests include deep learning, computer vision, machine learning operations
 
 ## Beyond technology
 
-When I am away from my computer, I enjoy **boxing**, watching anime, playing esports, and reading finance books.
+When I am away from my computer, I enjoy watching anime, playing esports, cooking with friends and reading finance books.
 
 ## Let's connect
 
